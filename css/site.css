@@ -1,15 +1,23 @@
 
 
-h1, h2 {
+/* h1, h2 {
   color: #336b6b;
   font-family: 'Trebuchet MS', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-}
+} */
 
-.verticalhorizontal {
+/* .verticalhorizontal {
   display: table-cell;
   height: 500px;
   text-align: center;
   width: 600px;
   vertical-align: middle;
-}
+} */
 
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
