@@ -13,6 +13,26 @@
   vertical-align: middle;
 } */
 
+/* img {
+  height: 1276px;
+  left: 50%;
+  margin-top: -638px;
+  margin-left: -767px;
+  position: absolute;
+  top: 50%;
+  width: 1532px;
+} */
+
+.imglogo {
+  /* height: 1276px; */
+  left: 50%;
+  margin-top: -125px;
+  margin-left: -150px;
+  position: absolute;
+  top: 50%;
+  /* width: 1532px; */
+}
+
 .masthead {
   height: 100vh;
   min-height: 500px;
