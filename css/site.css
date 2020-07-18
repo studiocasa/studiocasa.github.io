@@ -1,37 +1,65 @@
 
 
-/* h1, h2 {
-  color: #336b6b;
-  font-family: 'Trebuchet MS', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-} */
+a:link, a:visited {
+  /* background-color: blue; */
+  color: white;
+  /* padding: 14px 25px; */
+  /* text-align: center; */
+  text-decoration: none;
+  display: inline-block;
+}
 
-/* .verticalhorizontal {
-  display: table-cell;
-  height: 500px;
-  text-align: center;
-  width: 600px;
-  vertical-align: middle;
-} */
+a:hover, a:active {
+  /* background-color: red; */
+  color: #fffeac;
+}
 
-/* img {
-  height: 1276px;
-  left: 50%;
-  margin-top: -638px;
-  margin-left: -767px;
-  position: absolute;
-  top: 50%;
-  width: 1532px;
-} */
+.contacts {
+  font-family: 'Kanit', sans-serif;
+  color:white;
+}
 
+/* OPTION 1 */
 .imglogo {
-  /* height: 1276px; */
   left: 50%;
   margin-top: -125px;
+  margin-left: -350px;
+  position: absolute;
+  top: 50%;
+}
+
+.detailsbox {
+  position: absolute;
+  height: 250px;
+  text-align: left;
+  width: 300px;
+  left: 50%;
+  margin-top: -125px;
+  margin-left: 50px;
+  position: absolute;
+  top: 50%;
+}
+
+/* OPTION 2 */
+/* .imglogo {
+  left: 50%;
+  margin-top: -250px;
   margin-left: -150px;
   position: absolute;
   top: 50%;
-  /* width: 1532px; */
 }
+
+.detailsbox {
+  position: absolute;
+  height: 250px;
+  text-align: center;
+  width: 300px;
+  left: 50%;
+  margin-top: 50px;
+  margin-left: -150px;
+  position: absolute;
+  top: 50%;
+} */
 
 .masthead {
   height: 100vh;
