@@ -11,4 +11,4 @@ by Daniela Borges
 ---
 
 ##### Author: Rodrigo Nobrega
-##### v0.06
+##### v0.23
